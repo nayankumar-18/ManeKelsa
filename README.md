@@ -111,25 +111,25 @@ mane-kelsa/
 
 ## Home Dashboard
 
-<img src="screenshots/homepage.jpeg" width="300"/>
+<img src="screenshots/customer homepage.jpeg" width="300"/>
 
 ---
 
 ## Worker Profile
 
-<img src="screenshots/profile.jpeg" width="300"/>
+<img src="screenshots/worker homepage.jpeg" width="300"/>
 
 ---
 
 ## Availability Toggle
 
-<img src="screenshots/availability.jpeg" width="300"/>
+<img src="screenshots/worker profilepage.jpeg" width="300"/>
 
 ---
 
 ## Worker Listing
 
-<img src="screenshots/workers.jpeg" width="300"/>
+<img src="screenshots/payment page.jpeg" width="300"/>
 
 ---
 
